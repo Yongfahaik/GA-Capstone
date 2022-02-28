@@ -11,7 +11,9 @@
 - [Conclusion](#conclusion)
 
 ***
+
 <div id="overview"></div>
+
 ## Overview
 
 Electronic sports (or e-sports) is a form of competition using video games, and takes the format of organized multiplayer video game competitions held between professional players, either as an individual or as a team. The video game genres normally associated with e-sports are Multiplayer Online Battle Arena (MOBA), First-Person Shooter (FPS), Battle Royale, Real-Time Strategy (RTS), Fighting, Collectible Card Games (CCG) and Sports & Racing.
@@ -90,7 +92,7 @@ The prefixes used above are as follows:
 |`squads`|The match mode where the team is of a maximum of 4 persons to compete with the maximum of 100 players per match|
 |`lifetime`|The overall statistics that is the total of the match modes `solo`, `duos`, `trios` and `squads`|
 
-<div id="modelevaluation"></div>
+<div id="evaluation"></div>
 
 ## Model Evaluation
 
