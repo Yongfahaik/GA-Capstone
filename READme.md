@@ -51,6 +51,7 @@ For the modelling stage, five model types (Logistic Regression, K Neighbors Clas
 ## Data Dictionary
 
 The data dictionary for all features is as follows (Note that only player statistics are used in the production model):
+(Note that only the datasets used for the Part 2 and later Parts for the Project are available here. If you require the datasets in the webscraping process, kindly find them in the [google drive here](https://drive.google.com/drive/folders/1iz_ih0jQcpEd59D7Bk9OER5MBZF84suU?usp=sharing).)
 
 |Feature|Type|Origin|Description|
 |---|---|---|---|
